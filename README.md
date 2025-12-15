@@ -20,4 +20,4 @@ This is a fresh profile where I share projects, analyses, and insights I’ve cr
 -  I’m currently working on a freelance Data Analyst project for a small business back in my hometown, after completing my Master's and internship experience.
 -  I’m continuously improving my skills in SQL, Excel, Tableau, and R to tackle more complex data challenges.
 -  I’m looking to collaborate on projects that involve data analysis, visualization, and applying insights to real-world business problems.
--  Outside of work, I enjoy staying active, exploring new recipes, and reading.
+-  I am a gym enthusiast, love cooking Mediterranean food, and enjoy reading science fiction books.
